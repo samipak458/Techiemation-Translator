@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/eecaaf69-e3b5-47f3-b2fe-b3b33b2bf07f/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/TechiemationTranslator",
+    "appService.deploySubpath": "."
+}
